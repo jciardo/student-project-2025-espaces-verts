@@ -5,14 +5,4 @@ HUM-454 – Mathieu Verest, Romain Frossard, Maxime Risse, Jean Ciardo.
 
 
 
-This is an [Observable Framework](https://observablehq.com/framework/) app. To install the required dependencies, run:
-
-```
-npm install
-```
-
-Then, to start the local preview server, run:
-
-```
-npm run dev
-```
+Our website is hosted by EPFL's [Time Machine Unit](https://www.epfl.ch/schools/cdh/time-machine-unit/) [here](https://projects.lausannetimemachine.ch/student-project-2025-espaces-verts/).
