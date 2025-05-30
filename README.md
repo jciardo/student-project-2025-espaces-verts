@@ -5,4 +5,4 @@ HUM-454 – Mathieu Verest, Romain Frossard, Maxime Risse, Jean Ciardo.
 
 
 
-Our website is hosted by EPFL's [Time Machine Unit](https://www.epfl.ch/schools/cdh/time-machine-unit/) [here](https://projects.lausannetimemachine.ch/student-project-2025-espaces-verts/).
+Check our [website](https://projects.lausannetimemachine.ch/student-project-2025-espaces-verts/). It is hosted by EPFL's [Time Machine Unit](https://www.epfl.ch/schools/cdh/time-machine-unit/).
